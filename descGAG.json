@@ -14,14 +14,7 @@
 		{ "type": "float",	"index": 128, "name": "MeanPosC"},
 		{ "type": "float",	"index": 129, "name": "MeanNegC"},
 		{ "type": "float",	"index": 130, "name": "MeanC"},
-		{ "type": "float",	"index": 131, "name": "NegtoPosC"},
-		{ "type": "string", 	"index": 117, "name": "Disease" },
-		{ "type": "string", 	"index": 118, "name": "Elite Controllers" },
-		{ "type": "string", 	"index": 119, "name": "P17-Membrane" },
-		{ "type": "string", 	"index": 120, "name": "P24-Inter-hex" },
-		{ "type": "string", 	"index": 121, "name": "P24-Intra_hex" },
-		{ "type": "string", 	"index": 122, "name": "P24-SP1" },
-		{ "type": "string", 	"index": 123, "name": "P7-ZF" }
+		{ "type": "float",	"index": 131, "name": "NegtoPosC"}
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 122 }
