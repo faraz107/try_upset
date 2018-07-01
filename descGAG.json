@@ -24,7 +24,7 @@
 		{ "type": "string", 	"index": 113, "name": "P7-ZF" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 113 }
+		{ "format": "binary", "start": 1, "end": 112 }
 	]
 }
 
